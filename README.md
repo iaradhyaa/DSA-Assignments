@@ -2,6 +2,8 @@
 
 🌸 DSA Assignments – Aradhya Mishra
 
+This repository serves as a comprehensive collection of my Data Structures and Algorithms (DSA) assignments, completed as part of the BCA (Artificial Intelligence). Each program is implemented in the C language and demonstrates core algorithmic techniques, efficient data handling, and logical problem-solving approaches fundamental to computer science.
+
 ## 📂 Assignments Included
 
 ### ⭐ Assignment 1: Array and Matrix Fundamentals
