@@ -18,11 +18,11 @@ A collection of problems focusing on array manipulation and basic matrix operati
 
 Implementation of key searching and sorting algorithms.
 
-* **Selection Sort** : Step-by-step implementation of the Selection Sort algorithm.
-* **Quick Sort** : Efficient implementation of the divide-and-conquer Quick Sort algorithm.
-* **Binary Search** : Implementation of the search algorithm for sorted arrays.
-* **Linear Search** : Simple and direct implementation of the sequential search.
-* **Bubble Sort** : Simple comparison-based algorithm repeatedly swaps adjacent elements until sorted.
+* **Selection Sort** - Step-by-step implementation of the Selection Sort algorithm.
+* **Quick Sort** - Efficient implementation of the divide-and-conquer Quick Sort algorithm.
+* **Binary Search** - Implementation of the search algorithm for sorted arrays.
+* **Linear Search** - Simple and direct implementation of the sequential search.
+* **Bubble Sort** - Simple comparison-based algorithm repeatedly swaps adjacent elements until sorted.
 
 ---
 
