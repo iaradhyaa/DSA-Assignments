@@ -14,7 +14,7 @@ int main() {
     printf("Enter number of rotations: ");
     scanf("%d", &k);
 
-    k = k % n; // Handle rotations larger than array size
+    k = k % n; 
 
     for (int i = 0; i < n; i++)
         rotated[(i + k) % n] = arr[i];

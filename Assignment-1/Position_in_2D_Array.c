@@ -23,11 +23,11 @@ int main() {
             if (arr[i][j] == key) {
                 printf("Element %d found at position: Row = %d, Column = %d\n", key, i, j);
                 found = 1;
-                break;  // Exit inner loop
+                break;  
             }
         }
         if (found)
-            break;  // Exit outer loop once found
+            break;  
     }
 
     if (!found)
