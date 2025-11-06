@@ -1,7 +1,6 @@
-# 📚 DSA-Assignments
-"DSA Banner" (https://i.imgur.com/rG0Y3Zp.png)
+# 🌻 DSA-Assignments
 
-<!-- You can replace the above link with your own banner image hosted on Imgur or GitHub -->🌸 DSA Assignments – Aradhya Mishra
+🌸 DSA Assignments – Aradhya Mishra
 
 > This repository showcases my journey through Data Structures and Algorithms (DSA) in C, developed during my BCA (Artificial Intelligence) coursework. It highlights practical implementations of key DSA topics, emphasizing clean coding, optimization, and logical thinking.
 
