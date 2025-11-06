@@ -13,6 +13,5 @@
 - 🔢 Mastery of iteration and conditional logic
 - 🧠 Algorithmic problem-solving
 - ⚙ Experience with compilation and debugging in C
-- 
 ---
 ⭐ If you liked this project, don’t forget to star it! ⭐
